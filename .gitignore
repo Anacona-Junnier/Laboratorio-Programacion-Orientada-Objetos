@@ -1,0 +1,4 @@
+# Ignorar configuraciones de Visual Studio Code
+.vscode/
+*.exe
+*.zip

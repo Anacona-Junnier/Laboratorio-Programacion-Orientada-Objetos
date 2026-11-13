@@ -1,0 +1,23 @@
+RESPUESTAS
+EJERCICIO 1: ¿Cómo se manejan los datos de entrada y salida en C? Haciendo uso de la Librería stdio.h
+que permite usar las funciones printf() para imprimir mensajes en la terminal y también, scanf() para 
+capturar caracteres que el usuario ingrese por teclado.
+EJERCICIO 2: ¿Cuál es la diferencia entre if-else y switch? El condicional if-else permite evaluar una
+condición para ejecutar ordenes a partir del resultado de la evaluación, si es verdadera o falsa.
+¿Cuándo es más eficiente usar switch en lugar de if-else? cuando existen más de dos opciones concretas 
+y quieres comparar una misma variable contra valores constantes sin combinar varios operadores.
+EJERCICIO 3: Explicar la diferencia entre for, while y do-while, destacando sus aplicaciones y cuándo 
+es más eficiente utilizar cada uno. 
+for: Se usa cuando se conoce el número de repeticiones. Es ideal para contar o recorrer arreglos y listas
+while: Se usa cuando no se conoce el número de repeticiones y el ciclo depende de una condición. Es útil 
+para validar datos o esperar que ocurra un evento
+do-while: Es similar a while, pero el bloque de código se ejecuta al menos una vez, ya que la condición 
+se evalúa al final. Se utiliza en menús interactivos y cuando se necesita pedir datos al usuario al 
+menos una vez.
+EJERCICIO 4: ¿Por  qué  es  importante  dividir  el  código  en  funciones? porque permite tener un
+código organizado, reutilizable y facilita su mantenimiento. ¿Cómo podríamos reutilizar las funciones 
+definidas en otro programa? importándolas mediante la herramienta que nos facilita el programa definiéndola
+en la cabecera del código.
+EJERCICIO 5: ¿Cómo funcionan los arreglos en C  y cómo se almacenan los datos en memoria? Los arreglos en
+C permiten guardar varios datos del mismo tipo y acceder a ellos mediante un índice. Los arreglos almacenan
+sus elementos uno junto al otro en memoria y se usa el índice para localizar cada elemento.
